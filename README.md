@@ -3,7 +3,7 @@ Location for My CS:GO Scripts
 
 ### Feel free to use/modify any of my code. 
 ## Table of Contents
-* [How to use .cfg  files in CS:GO] (https://github.com/vtwarrior25/csgo-scripts/blob/master/README.md#how-to-use-cfg-files-in-csgo)
+* [How to use .cfg  files in CS:GO](https://github.com/vtwarrior25/csgo-scripts/blob/master/README.md#how-to-use-cfg-files-in-csgo)
 * Sample Autoexec File
 * My Autoexec.cfg
 * Practice.cfg
