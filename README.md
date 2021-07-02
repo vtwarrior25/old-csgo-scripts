@@ -31,7 +31,7 @@ You don't need to include the .cfg when typing in the filename.
 Then press **Enter**, and your script will run.
 
 ### 3: Telling Steam how to automatically execute your autoexec
-If you are lazy like men and don't want to do the above step every time you load up CS:GO, there is a way to automatically have your .cfg file execute.
+If you are lazy like me and don't want to do the above step every time you load up CS:GO, there is a way to automatically have your .cfg file execute.
 
 Open **Steam > Library**, navigate to your **Library**, then find **CS:GO**.
 Then right-click on CS:GO and click **"Properties"**.
